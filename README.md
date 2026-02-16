@@ -4,12 +4,12 @@ A RAG-powered study assistant that lets you upload lecture notes and course PDFs
 
 ## Features
 
-- **PDF Upload & Indexing** — Upload syllabi or lecture notes and have them chunked, embedded, and stored in ChromaDB for retrieval.
+- **PDF Upload & Indexing** - Upload syllabi or lecture notes and have them chunked, embedded, and stored in ChromaDB for retrieval.
 - **3 Assistant Modes:**
-  - **General** — Straightforward answers based on your notes.
-  - **Teacher** — Explains concepts with analogies and ends with a knowledge-check question.
-  - **Exam Prep** — Identifies key definitions and potential exam questions.
-- **Auto Quiz Generator** — Generates multiple-choice questions from your uploaded notes with one click.
+  - **General** - Straightforward answers based on your notes.
+  - **Teacher** - Explains concepts with analogies and ends with a knowledge-check question.
+  - **Exam Prep** - Identifies key definitions and potential exam questions.
+- **Auto Quiz Generator** - Generates multiple-choice questions from your uploaded notes with one click.
 
 ## Tech Stack
 
