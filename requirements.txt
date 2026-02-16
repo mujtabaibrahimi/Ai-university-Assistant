@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-groq
+langchain-chroma
+langchain-openai
+pypdf
+streamlit
+groq
+tiktoken
+python-dotenv
+sentence-transformers
